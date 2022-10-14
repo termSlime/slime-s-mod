@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[43,)"
+license="Academic Free License v3.0"
+
+[[mods]]
+modId="termslime"
+version="1.0.0"
+displayName="slime's Mod"
+credits="the mod made with MCreator - https://mcreator.net"
+displayURL="https://mcreator.net"
+logoFile="logo.png"
+authors="EagererScrollJava65, MCreator, user, RblxLuauDevCode"
+description='''
+this mod adds creepypasta things, fun things, general things, etc. at mostly random
+'''
+
+[[dependencies.termslime]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

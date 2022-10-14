@@ -1,0 +1,93 @@
+{
+  "mod_elements": [
+    {
+      "name": "RDsMOD",
+      "type": "tab",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_ds_mod"
+    },
+    {
+      "name": "IconDistorted",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "icon_distorted"
+    },
+    {
+      "name": "Distorted",
+      "type": "tab",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "distorted"
+    },
+    {
+      "name": "DistDrop",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dist_drop"
+    },
+    {
+      "name": "CreepIcon",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "creep_icon"
+    },
+    {
+      "name": "CreepyStuffs",
+      "type": "tab",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "creepy_stuffs"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.termslime.icon_distorted": "Icon Distorted",
+      "itemGroup.tabr_ds_mod": "RD\u0027s MOD: General",
+      "item.raundm_forge.icon_distorted": "Icon Distorted",
+      "itemGroup.tabdistorted": "RD\u0027s MOD: Distorted mobs",
+      "item.termslime.creep_icon": "Creep Icon",
+      "item.termslime.dist_drop": "you\u0027re have no authority",
+      "item.random_mod.friendly_zombie_spawn_egg": "Friendly Zombie Spawn Egg",
+      "entity.random_mod.friendly_zombie": "Friendly Zombie",
+      "item.raundm_forge.dist_drop": "you\u0027re have no authority",
+      "itemGroup.tabcreepy_stuffs": "Creepy Stuffs"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "termslime",
+    "modName": "slime\u0027s Mod",
+    "version": "1.0.0",
+    "description": "this mod adds creepypasta things, fun things, general things, etc. at mostly random",
+    "author": "EagererScrollJava65, MCreator, user, RblxLuauDevCode",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "logo",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.19.2",
+    "credits": "the mod made with MCreator - https://mcreator.net",
+    "modElementsPackage": "gh.termslime.termslm",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200341417
+}
