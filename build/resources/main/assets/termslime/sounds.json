@@ -1,0 +1,86 @@
+{
+  "slimesmod.betterslime.ambient": {
+    "category": "hostile",
+    "subtitle": "subtitles.slimesmod.betterslime.ambient",
+    "sounds": [
+      {
+        "name": "termslime:idle1",
+        "stream": false
+      },
+      {
+        "name": "termslime:idle2",
+        "stream": false
+      },
+      {
+        "name": "termslime:idle3",
+        "stream": false
+      }
+    ]
+  },
+  "slimesmod.betterslime.climb": {
+    "category": "hostile",
+    "subtitle": "subtitles.slimesmod.betterslime.climb",
+    "sounds": [
+      {
+        "name": "termslime:climb1",
+        "stream": false
+      },
+      {
+        "name": "termslime:climb2",
+        "stream": false
+      },
+      {
+        "name": "termslime:climb3",
+        "stream": false
+      }
+    ]
+  },
+  "slimesmod.betterslime.attack": {
+    "category": "hostile",
+    "subtitle": "subtitles.slimesmod.betterslime.attack",
+    "sounds": [
+      {
+        "name": "termslime:attack",
+        "stream": false
+      }
+    ]
+  },
+  "slimesmod.betterslime.hurt": {
+    "category": "hostile",
+    "subtitle": "subtitles.slimesmod.betterslime.hurt",
+    "sounds": [
+      {
+        "name": "termslime:hurt1",
+        "stream": false
+      },
+      {
+        "name": "termslime:hurt2",
+        "stream": false
+      }
+    ]
+  },
+  "slimesmod.betterslime.jump": {
+    "category": "hostile",
+    "subtitle": "subtitles.slimesmod.betterslime.jump",
+    "sounds": [
+      {
+        "name": "termslime:jump1",
+        "stream": false
+      },
+      {
+        "name": "termslime:jump2",
+        "stream": false
+      }
+    ]
+  },
+  "slimesmod.betterslime.hardattack": {
+    "category": "hostile",
+    "subtitle": "subtitles.slimesmod.betterslime.hardattack",
+    "sounds": [
+      {
+        "name": "termslime:hardattack",
+        "stream": false
+      }
+    ]
+  }
+}

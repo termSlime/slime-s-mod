@@ -22,7 +22,7 @@ import com.google.common.collect.ImmutableMultimap;
 
 public class DistDropItem extends Item {
 	public DistDropItem() {
-		super(new Item.Properties().tab(TermslimeModTabs.TAB_DISTORTED).stacksTo(64).fireResistant().rarity(Rarity.EPIC));
+		super(new Item.Properties().tab(TermslimeModTabs.TAB_R_DS_MOD).stacksTo(64).fireResistant().rarity(Rarity.EPIC));
 	}
 
 	@Override

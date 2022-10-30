@@ -1,0 +1,12 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": {
+    "type": "forge:any"
+  },
+  "spawners": {
+    "type": "termslime:friendly_zombie",
+    "weight": 4,
+    "minCount": 2,
+    "maxCount": 6
+  }
+}

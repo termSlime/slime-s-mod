@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01 ",
+    "345",
+    "  8"
+  ],
+  "key": {
+    "0": {
+      "item": "termslime:top_shell"
+    },
+    "1": {
+      "item": "termslime:floppy_disk_shatter"
+    },
+    "3": {
+      "item": "termslime:liner"
+    },
+    "4": {
+      "item": "termslime:magnetic_disk"
+    },
+    "5": {
+      "item": "termslime:liner"
+    },
+    "8": {
+      "item": "termslime:top_shell"
+    }
+  },
+  "result": {
+    "item": "termslime:disk_drive",
+    "count": 1
+  }
+}

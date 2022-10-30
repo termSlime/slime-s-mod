@@ -10,9 +10,11 @@ import net.minecraft.network.chat.Component;
 
 import java.util.List;
 
+import gh.termslime.termslm.init.TermslimeModTabs;
+
 public class IconDistortedItem extends Item {
 	public IconDistortedItem() {
-		super(new Item.Properties().tab(null).stacksTo(64).rarity(Rarity.EPIC));
+		super(new Item.Properties().tab(TermslimeModTabs.TAB_R_DS_MOD).stacksTo(64).rarity(Rarity.EPIC));
 	}
 
 	@Override

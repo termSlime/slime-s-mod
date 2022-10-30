@@ -2,7 +2,7 @@ Java Launcher: C:\Users\user\Desktop\mcreator2022414\MCreatorEAP20223b41417\jdk\
 Arguments: '--in-jar, C:\Users\user\MCreatorWorkspaces\random_mod\build\libs\modid-1.0.jar, --out-jar, C:\Users\user\MCreatorWorkspaces\random_mod\build\reobfJar\output.jar, --srg-in, C:\Users\user\MCreatorWorkspaces\random_mod\build\createMcpToSrg\output.tsrg, --live'
 Classpath:
  - C:\Users\user\.mcreator\gradle\caches\forge_gradle\maven_downloader\net\md-5\SpecialSource\1.11.0\SpecialSource-1.11.0-shaded.jar
- - C:\Users\user\.mcreator\gradle\caches\forge_gradle\minecraft_user_repo\net\minecraftforge\forge\1.19.2-43.1.1_mapped_official_1.19.2\forge-1.19.2-43.1.1_mapped_official_1.19.2.jar
+ - C:\Users\user\.mcreator\gradle\caches\forge_gradle\minecraft_user_repo\net\minecraftforge\forge\1.19.2-43.1.1_mapped_official_1.19.2\forge-1.19.2-43.1.1_mapped_official_1.19.2-recomp.jar
  - C:\Users\user\.mcreator\gradle\caches\forge_gradle\minecraft_repo\versions\1.19.2\client-extra.jar
  - C:\Users\user\.mcreator\gradle\caches\modules-2\files-2.1\net.minecraftforge\fmlloader\1.19.2-43.1.1\5f97967f7b85bfeb9ba77b9a9d6fe6dd9be05c84\fmlloader-1.19.2-43.1.1.jar
  - C:\Users\user\.mcreator\gradle\caches\modules-2\files-2.1\net.minecraftforge\JarJarSelector\0.3.16\2a31421fb5e267249da103a644f23afb43d158af\JarJarSelector-0.3.16.jar
@@ -121,14 +121,14 @@ Loading mappings... 40%
 Loading mappings... 50%
 0 packages, 6859 classes, 30693 fields, 57911 methods
 Remapping final jar
-Remapping jar...  2%
-Remapping jar... 11%
-Remapping jar... 22%
+Remapping jar...  1%
+Remapping jar... 10%
+Remapping jar... 20%
 Remapping jar... 30%
-Remapping jar... 41%
+Remapping jar... 40%
 Remapping jar... 50%
-Remapping jar... 61%
-Remapping jar... 72%
+Remapping jar... 60%
+Remapping jar... 70%
 Remapping jar... 80%
-Remapping jar... 91%
+Remapping jar... 90%
 Remapping jar... 100%

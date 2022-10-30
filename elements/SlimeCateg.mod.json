@@ -1,0 +1,21 @@
+{
+  "_fv": 34,
+  "_type": "tag",
+  "definition": {
+    "type": "Entities",
+    "items": [],
+    "blocks": [],
+    "functions": [],
+    "entities": [
+      {
+        "value": "CUSTOM:SmilingSlime"
+      },
+      {
+        "value": "EntitySlime"
+      }
+    ],
+    "biomes": [],
+    "name": "slime_categ",
+    "namespace": "forge"
+  }
+}

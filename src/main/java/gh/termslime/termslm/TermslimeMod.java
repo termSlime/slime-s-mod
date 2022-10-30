@@ -31,7 +31,12 @@ import java.util.function.Function;
 import java.util.function.BiConsumer;
 
 import gh.termslime.termslm.init.TermslimeModTabs;
+import gh.termslime.termslm.init.TermslimeModSounds;
+import gh.termslime.termslm.init.TermslimeModParticleTypes;
 import gh.termslime.termslm.init.TermslimeModItems;
+import gh.termslime.termslm.init.TermslimeModFeatures;
+import gh.termslime.termslm.init.TermslimeModEntities;
+import gh.termslime.termslm.init.TermslimeModBlocks;
 
 @Mod("termslime")
 public class TermslimeMod {
@@ -45,8 +50,14 @@ public class TermslimeMod {
 	public TermslimeMod() {
 		TermslimeModTabs.load();
 		IEventBus bus = FMLJavaModLoadingContext.get().getModEventBus();
-
+		TermslimeModSounds.REGISTRY.register(bus);
+		TermslimeModBlocks.REGISTRY.register(bus);
 		TermslimeModItems.REGISTRY.register(bus);
+		TermslimeModEntities.REGISTRY.register(bus);
+
+		TermslimeModFeatures.REGISTRY.register(bus);
+
+		TermslimeModParticleTypes.REGISTRY.register(bus);
 
 	}
 

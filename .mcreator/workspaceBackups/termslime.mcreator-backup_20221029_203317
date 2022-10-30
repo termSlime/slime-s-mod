@@ -1,0 +1,256 @@
+{
+  "mod_elements": [
+    {
+      "name": "RDsMOD",
+      "type": "tab",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_ds_mod"
+    },
+    {
+      "name": "IconDistorted",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "icon_distorted"
+    },
+    {
+      "name": "DistDrop",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dist_drop"
+    },
+    {
+      "name": "CreepIcon",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "creep_icon"
+    },
+    {
+      "name": "SmilingSlime",
+      "type": "livingentity",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "smiling_slime"
+    },
+    {
+      "name": "SlimeCateg",
+      "type": "tag",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "slime_categ"
+    },
+    {
+      "name": "DiskDrive",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "disk_drive"
+    },
+    {
+      "name": "TopShell",
+      "type": "item",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "top_shell"
+    },
+    {
+      "name": "FloppyDiskShatter",
+      "type": "item",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "floppy_disk_shatter"
+    },
+    {
+      "name": "AluminiumOre",
+      "type": "item",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aluminium_ore"
+    },
+    {
+      "name": "AluminiumOreBlock",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aluminium_ore_block"
+    },
+    {
+      "name": "Liner",
+      "type": "item",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "liner"
+    },
+    {
+      "name": "FlowerStuff",
+      "type": "particle",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "flower_stuff"
+    },
+    {
+      "name": "FriendlyZombie",
+      "type": "livingentity",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "friendly_zombie"
+    },
+    {
+      "name": "DiskHub",
+      "type": "item",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "disk_hub"
+    },
+    {
+      "name": "MagneticDisk",
+      "type": "item",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magnetic_disk"
+    },
+    {
+      "name": "DiskDriveMaking",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "disk_drive_making"
+    },
+    {
+      "name": "TopShellMaking",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "top_shell_making"
+    },
+    {
+      "name": "ShatterMaking",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shatter_making"
+    },
+    {
+      "name": "LinerMaking",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "liner_making"
+    },
+    {
+      "name": "MagndiskMaking",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magndisk_making"
+    },
+    {
+      "name": "DistZombie",
+      "type": "livingentity",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dist_zombie"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "slimesmod.betterslime.ambient",
+      "files": [
+        "idle1",
+        "idle2",
+        "idle3"
+      ],
+      "category": "hostile",
+      "subtitle": "bSlime Idles"
+    },
+    {
+      "name": "slimesmod.betterslime.climb",
+      "files": [
+        "climb1",
+        "climb2",
+        "climb3"
+      ],
+      "category": "hostile",
+      "subtitle": "bSlime Climbs"
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "item.termslime.floppy_disk_shatter": "Floppy Disk Shatter",
+      "item.termslime.aluminium_ore": "Aluminium Ore",
+      "entity.termslime.friendly_zombie": "Friendly Zombie",
+      "item.termslime.dist_zombie_spawn_egg": "Dist Zombie Spawn Egg",
+      "item.raundm_forge.icon_distorted": "Icon Distorted",
+      "item.termslime.disk_hub": "Disk Hub",
+      "item.termslime.magnetic_disk": "Magnetic Disk",
+      "entity.termslime.smiling_slime": "Smiling Slime",
+      "item.termslime.dist_drop": "you\u0027re have no authority",
+      "item.termslime.top_shell": "Top Shell",
+      "item.raundm_forge.dist_drop": "you\u0027re have no authority",
+      "subtitles.slimesmod.betterslime.ambient": "bSlime Idles",
+      "item.termslime.friendly_zombie_spawn_egg": "Friendly Zombie Spawn Egg",
+      "item.termslime.icon_distorted": "Icon Distorted",
+      "block.termslime.aluminium_ore_block": "Aluminium Ore Block",
+      "item.termslime.liner": "Liner",
+      "itemGroup.tabr_ds_mod": "RD\u0027s MOD: General",
+      "subtitles.slimesmod.betterslime.climb": "bSlime Climbs",
+      "item.termslime.disk_drive": "Floppy Drive",
+      "item.random_mod.friendly_zombie_spawn_egg": "Friendly Zombie Spawn Egg",
+      "entity.random_mod.friendly_zombie": "Friendly Zombie",
+      "entity.termslime.dist_zombie": "Dist Zombie",
+      "item.termslime.smiling_slime_spawn_egg": "Smiling Slime Spawn Egg",
+      "item.termslime.creep_icon": "Creep Icon"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "termslime",
+    "modName": "slime\u0027s Mod",
+    "version": "1.0.0",
+    "description": "this mod adds creepypasta things, fun things, general things, etc. at mostly random",
+    "author": "EagererScrollJava65, MCreator, user, RblxLuauDevCode",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "logo",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.19.2",
+    "credits": "the mod made with MCreator - https://mcreator.net",
+    "modElementsPackage": "gh.termslime.termslm",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200341417
+}
